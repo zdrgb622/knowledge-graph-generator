@@ -1,2 +1,2 @@
 # knowledge-graph-generator
-utilze LLM to generate knowledge graph/ bullet point for RAG 
+converting html to mark down and utilze LLM to generate knowledge graph/ bullet point for RAG 
